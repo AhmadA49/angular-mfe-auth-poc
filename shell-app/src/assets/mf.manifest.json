@@ -1,0 +1,4 @@
+{
+  "mfeProducts": "https://localhost:4201/remoteEntry.js",
+  "mfeOrders": "https://localhost:4202/remoteEntry.js"
+}
